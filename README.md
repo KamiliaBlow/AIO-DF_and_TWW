@@ -1,9 +1,9 @@
 # AIO
-AIO is a pure lua server-client communication system for Eluna and WoW.  
+AIO is a pure lua server-client communication system for Eluna and WoW DF/TWW.  
 AIO is designed for sending lua addons and data to player from server and data from player to server.  
-Made for [Eluna Lua Engine](https://github.com/ElunaLuaEngine/Eluna). Tested on 10.2.6 and should work on other patches (but not for sure, as Blizzard might break something again). Tested with Lua 5.1 and 5.2.
+Made for [Eluna Lua Engine](https://github.com/ElunaLuaEngine/Eluna). Tested on 11.0.0 and 10.2.6 and should work on other patches (but not for sure, as Blizzard might break something again). Tested with Lua 5.1 and 5.2.
 
-You need knowledge of writing addons for Dragonflight (old code won't work and will throw an error)
+You need knowledge of writing addons for Dragonflight/The War Within (old code won't work and will throw an error)
 
 # Installation
 - Make sure you have [Eluna Lua Engine]([https://github.com/ElunaLuaEngine/Eluna](https://github.com/KamiliaBlow/RoleplayCore))
